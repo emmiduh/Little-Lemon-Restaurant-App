@@ -41,12 +41,6 @@ INSTALLED_APPS = [
 ]
 
 
-# python manage.py createsuperuser
-# Username (leave blank to use 'emmy'): appadmin
-# Email address: admin@littlelemon.com
-# Password:appadmin
-
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
